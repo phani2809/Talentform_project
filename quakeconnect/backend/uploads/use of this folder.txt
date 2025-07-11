@@ -1,0 +1,1 @@
+When user upload any images related to the incident then it will store in this file
